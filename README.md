@@ -1,6 +1,6 @@
 # Official implementation for **GLBA**
 
-## [**Global-local Bi-alignment for Purer Unsupervised Domain Adaptation**](https://arxiv.org/abs/2104.01539)
+## [**Global-local Bi-alignment for Purer Unsupervised Domain Adaptation**]
 
 ### Problem setting (Black-box UDA):  
 
