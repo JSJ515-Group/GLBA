@@ -4,8 +4,8 @@
 
 ### Existing Problem (Single-space UDA):  
 
-<img src="figs/problem.png" width="500" div align=center/>
+<img src="figs/problem.jpg" width="500" div align=center/>
 
 ### Our framework (Global-local Bi-alignment):  
 
-<img src="figs/method.png" width="800" div align=center/>
+<img src="figs/GLBA.jpg" width="800" div align=center/>
