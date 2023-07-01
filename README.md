@@ -9,6 +9,6 @@
 ### Our framework (Global-local Bi-alignment):  
 
 <img src="figs/GLBA.jpg" width="800" div align=center/>
-### Results:  
 
+### Results:  
 <img src="figs/Office-31.png" width="800" div align=center/>
