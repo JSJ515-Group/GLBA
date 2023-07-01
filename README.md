@@ -11,4 +11,4 @@
 <img src="figs/GLBA.jpg" width="800" div align=center/>
 ### Results:  
 
-<img src="figs/office31.png" width="800" div align=center/>
+<img src="figs/Office-31.png" width="800" div align=center/>
